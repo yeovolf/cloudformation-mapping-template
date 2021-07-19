@@ -1,2 +1,2 @@
 # cloudformation-mapping-template
-add CloudFormation mapping to create your infrastructure
+Template to create infrastructure using mapping.
